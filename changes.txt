@@ -1,0 +1,122 @@
+DIR-842 Firmware Release Notes
+
+
+Firmware: 2.03b01-09
+Hardware: Rev.B
+Date: 2017-10-13
+
+Problem Resolves:
+1. Fix the throughput will go down after DIR-842 has been running five days.
+----------------------------------
+
+Firmware: 2.03b01-08
+Hardware: Rev.B
+Date: 2017/09/07
+
+Problem Resolves:
+1. Fix WAN call WAN fail when setup voip gateway in Lan side.
+----------------------------------
+
+Firmware: 2.03b01-07
+Hardware: Rev.B
+Date: 2017/08/21
+
+Problem Resolves:
+1. Update URL of "Click here for help" in upgrade page.
+
+----------------------------------
+
+Firmware: 2.03b01-05
+Hardware: Rev.B
+Date: 2016/11/22
+
+Enchancement:
+1.Disable MLD proxy.
+
+
+----------------------------------
+
+Firmware: 2.03b01-04
+Hardware: Rev.B
+Date: 2016/11/18
+
+Enchancement:
+1. Enable LAN telnet port.
+
+----------------------------------
+
+Firmware: 2.03b01-03
+Hardware: Rev.B
+Date: 2016/11/04
+
+Enchancement:
+1. Add mac address input protection.
+2. Add Host/Parental Control tab.
+3. Add IP address(Reserved) chinese translation.
+4. Add DHCP reserve limit be 24 records.
+
+----------------------------------
+
+Firmware: 2.03b01-02
+Hardware: Rev.B
+Date: 2016/08/10
+
+Problem Resolves:
+1. Fix T-com ipv6 issue(follow RA rule).
+
+
+----------------------------------
+
+Firmware: 2.03b01-01
+Hardware: Rev.B
+Date: 2016/07/22
+
+Problem Resolves:
+1. Fix T-com ipv6 issue(remove SOL_MAX_RT OPTION).
+
+----------------------------------
+
+Firmware: 2.03b01
+Hardware: Rev.B
+Date: 2016/07/04
+
+Problem Resolved:
+1. Add new function: Offline MAC address.
+
+----------------------------------
+
+Firmware: 2.02b01
+Hardware: Rev.B
+Date: 2016/06/14
+
+Problem Resolves:
+1.Fixed it was possible to show blank webpage when using mobile device to view desktop layout.
+
+----------------------------------
+
+Firmware: 2.01b04
+Hardware: Rev.B
+Date: 2016/04/12
+
+Problem Resolves:
+1. Fixed it was possible for schedule setting to not sync up with router.
+2. Fixed GUI error for displaying WAN gigabit speed.
+
+Enhancement:
+1. Improve stability under environment with BT running.
+
+----------------------------------
+
+Firmware: 2.00b06
+Hardware: Rev.B
+Date: 2016/01/15
+
+Problem Resolves:
+None
+
+Note:
+1st Release
+
+----------------------------------
+
+
